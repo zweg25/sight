@@ -1,4 +1,5 @@
-# sight
+# Insight (originally named Sight)
+### YHack 2017 Winner! An app designed to help give sight to the visually impaired!
 
 ## Inspiration
 Imagine a world where your best friend is standing in front of you, but you can't see them. Or you go to read a menu, but you are not able to because the restaurant does not have specialized brail menus. For millions of visually impaired people around the world, those are not hypotheticals, they are facts of life.
